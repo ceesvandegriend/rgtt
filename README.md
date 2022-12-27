@@ -1,2 +1,1 @@
-# rgtt
-rgtt / regatta
+# rgtt / regatta: Kubernetes exercises and examples
